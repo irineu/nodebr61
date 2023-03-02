@@ -1,0 +1,1 @@
+frida -l teste00.js -f com.irineu.nodebr61 -U
